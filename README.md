@@ -29,10 +29,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <br>C
     </td>
-    <td align="center"  width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <br>C++
-    </td>
+  
     </td>
     <td align="center"  width="96">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
